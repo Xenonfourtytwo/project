@@ -1,0 +1,6 @@
+Credentials cache: API:DAD87FD8-F6D6-472E-9D4D-FC88A9AC4B9A
+Principal: eyozturk@42.FR
+
+Issued                Expires               Principal
+Aug 28 17:19:43 2017  Sep  4 17:19:43 2017  krbtgt/42.FR@42.FR
+Aug 28 18:58:47 2017  Sep  4 17:19:43 2017  host/vgs-fn1.42.fr@42.FR
